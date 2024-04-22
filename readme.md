@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 1. Make sure you have Python and pip installed on your system.
 2. Clone this repository to your local machine.
-3. Open a terminal and navigate to the project directory.
+3. Open a terminal and navigate to the project api directory.
 4. Run the following command to start the application:
 ```bash
 python app.py
